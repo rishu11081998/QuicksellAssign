@@ -1,0 +1,14 @@
+.inputvl{
+    /* border: 1px solid red; */
+    background-position-x:42px ;
+    background-position-y:103px;
+   width: 15 0px;
+    height: 16px;
+    opacity: 100%;
+}
+.inputvl p{
+    font-size: 12px;
+    font-weight: 500;
+    text-align: left;
+    vertical-align: top;
+}
